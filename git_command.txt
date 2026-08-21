@@ -9,3 +9,8 @@ git add .
 git commit -m "Add Python learning projects"
 
 git push -u origin main
+
+
+git remote -v
+
+git branch -M main
