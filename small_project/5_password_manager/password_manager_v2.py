@@ -1,6 +1,8 @@
 import json
 import sys
 import os
+import cryptography
+
 FILE = "data.json"
 
 def load_file():

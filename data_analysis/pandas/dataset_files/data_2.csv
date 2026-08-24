@@ -1,0 +1,9 @@
+Student_ID,Name,Age,Gender,Department,Marks_Math,Marks_Science,Passed,Join_Date
+101,Alice,20,F,CS,85.5,90.0,True,2022-08-15
+102,Bob,22,M,Math,78.0,82.5,True,2021-08-20
+103,Charlie,21,M,CS,92.0,88.0,True,2022-08-15
+104,Diana,23,F,Physics,88.5,91.0,True,2021-08-20
+105,Evan,20,M,Math,75.0,79.0,False,2022-08-15
+106,Fiona,22,F,CS,95.0,94.0,True,2021-08-20
+107,George,21,M,Physics,80.0,85.5,True,2023-01-10
+108,Hannah,24,F,Math,89.5,87.0,True,2022-08-15
